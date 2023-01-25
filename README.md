@@ -1,1 +1,1 @@
-my readme
+Project done by Uwimana Jessy Bandya & Kevin Ngugi
